@@ -1,0 +1,6 @@
+C:\Users\amanda_089939\source\repos\DemoBlazerRazorWasm\Server\obj\Debug\net7.0\DemoBlazerRazorWasm.Server.csproj.AssemblyReference.cache
+C:\Users\amanda_089939\source\repos\DemoBlazerRazorWasm\Server\obj\Debug\net7.0\DemoBlazerRazorWasm.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amanda_089939\source\repos\DemoBlazerRazorWasm\Server\obj\Debug\net7.0\DemoBlazerRazorWasm.Server.AssemblyInfoInputs.cache
+C:\Users\amanda_089939\source\repos\DemoBlazerRazorWasm\Server\obj\Debug\net7.0\DemoBlazerRazorWasm.Server.AssemblyInfo.cs
+C:\Users\amanda_089939\source\repos\DemoBlazerRazorWasm\Server\obj\Debug\net7.0\DemoBlazerRazorWasm.Server.csproj.CoreCompileInputs.cache
+C:\Users\amanda_089939\source\repos\DemoBlazerRazorWasm\Server\obj\Debug\net7.0\DemoBlazerRazorWasm.Server.MvcApplicationPartsAssemblyInfo.cache

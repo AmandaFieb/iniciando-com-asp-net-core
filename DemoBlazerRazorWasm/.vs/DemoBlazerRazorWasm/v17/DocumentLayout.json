@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amanda_089939\\source\\repos\\DemoBlazerRazorWasm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6EBCF9-1B4B-4A68-B932-32EB8D5D9782}|Server\\DemoBlazerRazorWasm.Server.csproj|c:\\users\\amanda_089939\\source\\repos\\demoblazerrazorwasm\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6EBCF9-1B4B-4A68-B932-32EB8D5D9782}|Server\\DemoBlazerRazorWasm.Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED65E241-C99B-4F13-B8EE-448857069B85}|Client\\DemoBlazerRazorWasm.Client.csproj|c:\\users\\amanda_089939\\source\\repos\\demoblazerrazorwasm\\client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED65E241-C99B-4F13-B8EE-448857069B85}|Client\\DemoBlazerRazorWasm.Client.csproj|solutionrelative:client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED65E241-C99B-4F13-B8EE-448857069B85}|Client\\DemoBlazerRazorWasm.Client.csproj|c:\\users\\amanda_089939\\source\\repos\\demoblazerrazorwasm\\client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED65E241-C99B-4F13-B8EE-448857069B85}|Client\\DemoBlazerRazorWasm.Client.csproj|solutionrelative:client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED65E241-C99B-4F13-B8EE-448857069B85}|Client\\DemoBlazerRazorWasm.Client.csproj|c:\\users\\amanda_089939\\source\\repos\\demoblazerrazorwasm\\client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED65E241-C99B-4F13-B8EE-448857069B85}|Client\\DemoBlazerRazorWasm.Client.csproj|solutionrelative:client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED65E241-C99B-4F13-B8EE-448857069B85}|Client\\DemoBlazerRazorWasm.Client.csproj|c:\\users\\amanda_089939\\source\\repos\\demoblazerrazorwasm\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED65E241-C99B-4F13-B8EE-448857069B85}|Client\\DemoBlazerRazorWasm.Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED65E241-C99B-4F13-B8EE-448857069B85}|Client\\DemoBlazerRazorWasm.Client.csproj|c:\\users\\amanda_089939\\source\\repos\\demoblazerrazorwasm\\client\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED65E241-C99B-4F13-B8EE-448857069B85}|Client\\DemoBlazerRazorWasm.Client.csproj|solutionrelative:client\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6EBCF9-1B4B-4A68-B932-32EB8D5D9782}|Server\\DemoBlazerRazorWasm.Server.csproj|c:\\users\\amanda_089939\\source\\repos\\demoblazerrazorwasm\\server\\demoblazerrazorwasm.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E6EBCF9-1B4B-4A68-B932-32EB8D5D9782}|Server\\DemoBlazerRazorWasm.Server.csproj|solutionrelative:server\\demoblazerrazorwasm.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amanda_089939\\source\\repos\\DemoBlazerRazorWasm\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\Users\\amanda_089939\\source\\repos\\DemoBlazerRazorWasm\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:53:55.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amanda_089939\\source\\repos\\DemoBlazerRazorWasm\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "C:\\Users\\amanda_089939\\source\\repos\\DemoBlazerRazorWasm\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:52:41.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\amanda_089939\\source\\repos\\DemoBlazerRazorWasm\\Client\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\amanda_089939\\source\\repos\\DemoBlazerRazorWasm\\Client\\Pages\\Index.razor",
+              "RelativeToolTip": "Client\\Pages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T11:50:48.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\amanda_089939\\source\\repos\\DemoBlazerRazorWasm\\Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "Client\\_Imports.razor",
+              "ToolTip": "C:\\Users\\amanda_089939\\source\\repos\\DemoBlazerRazorWasm\\Client\\_Imports.razor",
+              "RelativeToolTip": "Client\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T11:50:45.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\amanda_089939\\source\\repos\\DemoBlazerRazorWasm\\Client\\App.razor",
+              "RelativeDocumentMoniker": "Client\\App.razor",
+              "ToolTip": "C:\\Users\\amanda_089939\\source\\repos\\DemoBlazerRazorWasm\\Client\\App.razor",
+              "RelativeToolTip": "Client\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T11:52:19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\amanda_089939\\source\\repos\\DemoBlazerRazorWasm\\Client\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Client\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\amanda_089939\\source\\repos\\DemoBlazerRazorWasm\\Client\\MainLayout.razor",
+              "RelativeToolTip": "Client\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T11:52:22.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DemoBlazerRazorWasm.Server",
+              "DocumentMoniker": "C:\\Users\\amanda_089939\\source\\repos\\DemoBlazerRazorWasm\\Server\\DemoBlazerRazorWasm.Server.csproj",
+              "RelativeDocumentMoniker": "Server\\DemoBlazerRazorWasm.Server.csproj",
+              "ToolTip": "C:\\Users\\amanda_089939\\source\\repos\\DemoBlazerRazorWasm\\Server\\DemoBlazerRazorWasm.Server.csproj",
+              "RelativeToolTip": "Server\\DemoBlazerRazorWasm.Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-21T11:46:56.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

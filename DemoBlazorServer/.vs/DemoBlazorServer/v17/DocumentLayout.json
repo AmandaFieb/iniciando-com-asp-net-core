@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amanda_089939\\source\\repos\\DemoBlazorServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02C5A110-C14E-4479-A8A8-D4F76774C625}|DemoBlazorServer.csproj|c:\\users\\amanda_089939\\source\\repos\\demoblazorserver\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02C5A110-C14E-4479-A8A8-D4F76774C625}|DemoBlazorServer.csproj|solutionrelative:pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C5A110-C14E-4479-A8A8-D4F76774C625}|DemoBlazorServer.csproj|c:\\users\\amanda_089939\\source\\repos\\demoblazorserver\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02C5A110-C14E-4479-A8A8-D4F76774C625}|DemoBlazorServer.csproj|solutionrelative:pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\amanda_089939\\source\\repos\\DemoBlazorServer\\Pages\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\amanda_089939\\source\\repos\\DemoBlazorServer\\Pages\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T11:52:14.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\Users\\amanda_089939\\source\\repos\\DemoBlazorServer\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Users\\amanda_089939\\source\\repos\\DemoBlazorServer\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "Pages\\_Host.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T11:52:06.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

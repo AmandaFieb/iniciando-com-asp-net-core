@@ -1,0 +1,11 @@
+C:\Users\amanda_089939\source\repos\DemoBlazerRazorWasm\Shared\bin\Debug\net7.0\DemoBlazerRazorWasm.Shared.deps.json
+C:\Users\amanda_089939\source\repos\DemoBlazerRazorWasm\Shared\bin\Debug\net7.0\DemoBlazerRazorWasm.Shared.dll
+C:\Users\amanda_089939\source\repos\DemoBlazerRazorWasm\Shared\bin\Debug\net7.0\DemoBlazerRazorWasm.Shared.pdb
+C:\Users\amanda_089939\source\repos\DemoBlazerRazorWasm\Shared\obj\Debug\net7.0\DemoBlazerRazorWasm.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amanda_089939\source\repos\DemoBlazerRazorWasm\Shared\obj\Debug\net7.0\DemoBlazerRazorWasm.Shared.AssemblyInfoInputs.cache
+C:\Users\amanda_089939\source\repos\DemoBlazerRazorWasm\Shared\obj\Debug\net7.0\DemoBlazerRazorWasm.Shared.AssemblyInfo.cs
+C:\Users\amanda_089939\source\repos\DemoBlazerRazorWasm\Shared\obj\Debug\net7.0\DemoBlazerRazorWasm.Shared.csproj.CoreCompileInputs.cache
+C:\Users\amanda_089939\source\repos\DemoBlazerRazorWasm\Shared\obj\Debug\net7.0\DemoBlazerRazorWasm.Shared.dll
+C:\Users\amanda_089939\source\repos\DemoBlazerRazorWasm\Shared\obj\Debug\net7.0\refint\DemoBlazerRazorWasm.Shared.dll
+C:\Users\amanda_089939\source\repos\DemoBlazerRazorWasm\Shared\obj\Debug\net7.0\DemoBlazerRazorWasm.Shared.pdb
+C:\Users\amanda_089939\source\repos\DemoBlazerRazorWasm\Shared\obj\Debug\net7.0\ref\DemoBlazerRazorWasm.Shared.dll
